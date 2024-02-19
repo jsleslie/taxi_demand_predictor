@@ -1,0 +1,3 @@
+data/
+poetry.lock
+src.egg-info
